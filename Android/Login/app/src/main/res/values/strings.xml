@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string-array name="lenguajes">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Python</item>
+        <item>C#</item>
+    </string-array>
+</resources>
