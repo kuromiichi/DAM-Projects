@@ -1,0 +1,17 @@
+C:\Users\Emma\Desktop\Proyectos\dotNet\WinForms\Dibujos\bin\Debug\net7.0-windows\Dibujos.exe
+C:\Users\Emma\Desktop\Proyectos\dotNet\WinForms\Dibujos\bin\Debug\net7.0-windows\Dibujos.deps.json
+C:\Users\Emma\Desktop\Proyectos\dotNet\WinForms\Dibujos\bin\Debug\net7.0-windows\Dibujos.runtimeconfig.json
+C:\Users\Emma\Desktop\Proyectos\dotNet\WinForms\Dibujos\bin\Debug\net7.0-windows\Dibujos.dll
+C:\Users\Emma\Desktop\Proyectos\dotNet\WinForms\Dibujos\bin\Debug\net7.0-windows\Dibujos.pdb
+C:\Users\Emma\Desktop\Proyectos\dotNet\WinForms\Dibujos\obj\Debug\net7.0-windows\Dibujos.Dibujos.resources
+C:\Users\Emma\Desktop\Proyectos\dotNet\WinForms\Dibujos\obj\Debug\net7.0-windows\Dibujos.Form1.resources
+C:\Users\Emma\Desktop\Proyectos\dotNet\WinForms\Dibujos\obj\Debug\net7.0-windows\Dibujos.csproj.GenerateResource.cache
+C:\Users\Emma\Desktop\Proyectos\dotNet\WinForms\Dibujos\obj\Debug\net7.0-windows\Dibujos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emma\Desktop\Proyectos\dotNet\WinForms\Dibujos\obj\Debug\net7.0-windows\Dibujos.AssemblyInfoInputs.cache
+C:\Users\Emma\Desktop\Proyectos\dotNet\WinForms\Dibujos\obj\Debug\net7.0-windows\Dibujos.AssemblyInfo.cs
+C:\Users\Emma\Desktop\Proyectos\dotNet\WinForms\Dibujos\obj\Debug\net7.0-windows\Dibujos.csproj.CoreCompileInputs.cache
+C:\Users\Emma\Desktop\Proyectos\dotNet\WinForms\Dibujos\obj\Debug\net7.0-windows\Dibujos.dll
+C:\Users\Emma\Desktop\Proyectos\dotNet\WinForms\Dibujos\obj\Debug\net7.0-windows\refint\Dibujos.dll
+C:\Users\Emma\Desktop\Proyectos\dotNet\WinForms\Dibujos\obj\Debug\net7.0-windows\Dibujos.pdb
+C:\Users\Emma\Desktop\Proyectos\dotNet\WinForms\Dibujos\obj\Debug\net7.0-windows\Dibujos.genruntimeconfig.cache
+C:\Users\Emma\Desktop\Proyectos\dotNet\WinForms\Dibujos\obj\Debug\net7.0-windows\ref\Dibujos.dll
