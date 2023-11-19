@@ -8,26 +8,27 @@
     "net7.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Emma\\.nuget\\packages\\": {}
+    "C:\\Users\\emma\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Emma\\Desktop\\Proyectos\\dotNet\\WinForms\\BotonSumarRestar\\BotonSumarRestar.csproj",
+      "projectUniqueName": "Z:\\WinForms\\BotonSumarRestar\\BotonSumarRestar.csproj",
       "projectName": "BotonSumarRestar",
-      "projectPath": "C:\\Users\\Emma\\Desktop\\Proyectos\\dotNet\\WinForms\\BotonSumarRestar\\BotonSumarRestar.csproj",
-      "packagesPath": "C:\\Users\\Emma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Emma\\Desktop\\Proyectos\\dotNet\\WinForms\\BotonSumarRestar\\obj\\",
+      "projectPath": "Z:\\WinForms\\BotonSumarRestar\\BotonSumarRestar.csproj",
+      "packagesPath": "C:\\Users\\emma\\.nuget\\packages\\",
+      "outputPath": "Z:\\WinForms\\BotonSumarRestar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Emma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\emma\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0-windows"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0-windows7.0": {
@@ -55,6 +56,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.14, 7.0.14]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
@@ -63,7 +82,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

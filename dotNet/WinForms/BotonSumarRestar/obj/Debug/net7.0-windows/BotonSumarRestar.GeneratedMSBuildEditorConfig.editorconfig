@@ -14,4 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BotonSumarRestar
-build_property.ProjectDir = C:\Users\Emma\Desktop\Proyectos\dotNet\WinForms\BotonSumarRestar\
+build_property.ProjectDir = Z:\WinForms\BotonSumarRestar\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

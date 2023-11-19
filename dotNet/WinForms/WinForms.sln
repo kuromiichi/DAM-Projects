@@ -5,7 +5,9 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BotonSumarRestar", "BotonSumarRestar\BotonSumarRestar.csproj", "{178DF53E-1676-41C7-80B9-34B615D1CC46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dibujos", "Dibujos\Dibujos.csproj", "{2339342E-D74E-456B-8BE6-B9C782397146}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dibujos", "Dibujos\Dibujos.csproj", "{2339342E-D74E-456B-8BE6-B9C782397146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Notepad", "Notepad\Notepad.csproj", "{B5510556-D1E2-415F-B446-921B4DC818DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2339342E-D74E-456B-8BE6-B9C782397146}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2339342E-D74E-456B-8BE6-B9C782397146}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2339342E-D74E-456B-8BE6-B9C782397146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5510556-D1E2-415F-B446-921B4DC818DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5510556-D1E2-415F-B446-921B4DC818DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5510556-D1E2-415F-B446-921B4DC818DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5510556-D1E2-415F-B446-921B4DC818DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

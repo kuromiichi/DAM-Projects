@@ -5,7 +5,7 @@ internal class Dibujos : Form
     private int platillo_y = 0;
     private int nube_x = 500;
 
-    public Dibujos() 
+    public Dibujos()
     {
         InitializeComponent();
         Paint += Dibujos_Paint;
@@ -48,7 +48,7 @@ internal class Dibujos : Form
             if (platillo_y >= 50 || platillo_y <= -50)
             {
                 direccion *= -1;
-            } 
+            }
             Invalidate();
         };
         timer.Start();
