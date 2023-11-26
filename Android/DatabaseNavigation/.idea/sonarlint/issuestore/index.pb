@@ -30,8 +30,6 @@ Uapp/src/androidTest/java/dev/kuromiichi/databasenavigation/ExampleInstrumentedT
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
-@
-local.properties,0/7/0712df971a99ac4d2fccb8e0fb19f377f3374cca
 A
 gradle.properties,2/a/2afbb999f001938c88fa43fc2ef52abf0f8213e4
 v
@@ -40,7 +38,5 @@ w
 Gapp/src/main/java/dev/kuromiichi/databasenavigation/database/NotaDao.kt,4/a/4aabe9edc6d99dbbedac7c57f35ba46365254c07
 |
 Lapp/src/main/java/dev/kuromiichi/databasenavigation/database/NotaDatabase.kt,f/2/f2eb24f56583e8d089905acd6dae761b9d4827a0
-v
-Fapp/src/main/java/dev/kuromiichi/databasenavigation/database/NotaDb.kt,b/d/bd4636a6e258117fdef2f67f088c3ab849fa4b30
 w
 Gapp/src/main/java/dev/kuromiichi/databasenavigation/entity/NotaLista.kt,3/5/356a51928d321f01c0f0905972cc46692f57dc53

@@ -1,0 +1,17 @@
+Z:\WinForms\BotonSumarRestar\bin\Debug\net7.0-windows\BotonSumarRestar.exe
+Z:\WinForms\BotonSumarRestar\bin\Debug\net7.0-windows\BotonSumarRestar.deps.json
+Z:\WinForms\BotonSumarRestar\bin\Debug\net7.0-windows\BotonSumarRestar.runtimeconfig.json
+Z:\WinForms\BotonSumarRestar\bin\Debug\net7.0-windows\BotonSumarRestar.dll
+Z:\WinForms\BotonSumarRestar\bin\Debug\net7.0-windows\BotonSumarRestar.pdb
+Z:\WinForms\BotonSumarRestar\obj\Debug\net7.0-windows\BotonSumarRestar.Form1.resources
+Z:\WinForms\BotonSumarRestar\obj\Debug\net7.0-windows\BotonSumarRestar.FormBotones.resources
+Z:\WinForms\BotonSumarRestar\obj\Debug\net7.0-windows\BotonSumarRestar.csproj.GenerateResource.cache
+Z:\WinForms\BotonSumarRestar\obj\Debug\net7.0-windows\BotonSumarRestar.GeneratedMSBuildEditorConfig.editorconfig
+Z:\WinForms\BotonSumarRestar\obj\Debug\net7.0-windows\BotonSumarRestar.AssemblyInfoInputs.cache
+Z:\WinForms\BotonSumarRestar\obj\Debug\net7.0-windows\BotonSumarRestar.AssemblyInfo.cs
+Z:\WinForms\BotonSumarRestar\obj\Debug\net7.0-windows\BotonSumarRestar.csproj.CoreCompileInputs.cache
+Z:\WinForms\BotonSumarRestar\obj\Debug\net7.0-windows\BotonSumarRestar.dll
+Z:\WinForms\BotonSumarRestar\obj\Debug\net7.0-windows\refint\BotonSumarRestar.dll
+Z:\WinForms\BotonSumarRestar\obj\Debug\net7.0-windows\BotonSumarRestar.pdb
+Z:\WinForms\BotonSumarRestar\obj\Debug\net7.0-windows\BotonSumarRestar.genruntimeconfig.cache
+Z:\WinForms\BotonSumarRestar\obj\Debug\net7.0-windows\ref\BotonSumarRestar.dll

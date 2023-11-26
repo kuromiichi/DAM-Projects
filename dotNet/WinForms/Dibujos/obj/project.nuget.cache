@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KdeuRgE8c1DbKUmGmH+NFPZJTM8jGNAYrMgLaRqb24lsxX3S8m5KBR827HLgxOyB6axVQ9/GIBJTsJ/+ezLsAQ==",
+  "dgSpecHash": "nmwuDgFn9sX4YZuQFsCeGG6dk2JT0DOfrHb8H5RULJ0pF+WTxsvcJdqOoncs5yspjHF/NsVGIWHGSTUW3gOVbA==",
   "success": true,
   "projectFilePath": "Z:\\WinForms\\Dibujos\\Dibujos.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\emma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\emma\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\emma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\emma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

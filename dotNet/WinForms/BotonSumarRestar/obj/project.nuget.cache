@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HWeGCR7AYJRw8afe5roqE7Az7DpdQMF0lFqgnnDvl0OHYEv4zKZ5z3Fp0jBrlDQBWGnEmeIZO5W+7E7zU5wPDw==",
+  "dgSpecHash": "5i+rTeUvJZ1E4kHoeAwII5gK/gP2YGSoXxQH4Y4cgoUmjdaxomC/SnKNlBEshj4pQu0J6hn/hY3JEHfq6YaWmw==",
   "success": true,
   "projectFilePath": "Z:\\WinForms\\BotonSumarRestar\\BotonSumarRestar.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\emma\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\emma\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\emma\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
-    "C:\\Users\\emma\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
