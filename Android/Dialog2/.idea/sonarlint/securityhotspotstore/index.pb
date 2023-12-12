@@ -4,4 +4,4 @@ Y
 h
 8app/src/main/java/dev/kuromiichi/dialog2/MainActivity.kt,c/9/c91f9726428f26c85fd9b67048a7a208ca6d3132
 D
-app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+app/build.gradle.kts,d/2/d2a4383452aad84a18429a5844d31330a012a9e6

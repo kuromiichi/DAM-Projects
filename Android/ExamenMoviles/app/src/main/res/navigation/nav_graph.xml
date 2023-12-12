@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="dev.kuromiichi.examenmoviles.ui.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/crearFragment"
+        android:name="dev.kuromiichi.examenmoviles.ui.CrearFragment"
+        android:label="fragment_crear"
+        tools:layout="@layout/fragment_crear" />
+    <fragment
+        android:id="@+id/filtrarFragment"
+        android:name="dev.kuromiichi.examenmoviles.ui.FiltrarFragment"
+        android:label="fragment_filtrar"
+        tools:layout="@layout/fragment_filtrar" />
+</navigation>

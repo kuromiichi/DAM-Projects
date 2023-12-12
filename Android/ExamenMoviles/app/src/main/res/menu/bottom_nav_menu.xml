@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"
+        />
+
+    <item
+        android:id="@+id/crearFragment"
+        android:title="Crear"
+        android:icon="@drawable/baseline_add_box_24"
+        />
+
+    <item
+        android:id="@+id/filtrarFragment"
+        android:title="Filtrar"
+        android:icon="@drawable/baseline_article_24"
+        />
+
+
+</menu>

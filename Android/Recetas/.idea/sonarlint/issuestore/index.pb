@@ -9,13 +9,3 @@ k
 ;app/src/main/java/dev/kuromiichi/recetas/RecetasFragment.kt,2/1/21a95d4944e3a9358d7a9af46eac11e717b2839f
 i
 9app/src/main/java/dev/kuromiichi/recetas/LoginActivity.kt,0/9/09786746bb76c9770c716e2639a9c20a692651bf
-r
-Bapp/src/main/java/dev/kuromiichi/recetas/ui/login/LoginFragment.kt,5/c/5c913c202900235dbea91cd3f7dc7a39b39a60fc
-s
-Capp/src/main/java/dev/kuromiichi/recetas/ui/login/LoginViewModel.kt,7/8/78e39773a34158e5f0b91383042e9cc16d09676b
-p
-@app/src/main/java/dev/kuromiichi/recetas/ui/login/LoginResult.kt,c/f/cfea746b2329cc54b48106ce745632846482fe3c
-u
-Eapp/src/main/java/dev/kuromiichi/recetas/ui/login/LoggedInUserView.kt,2/e/2ea9b542989347d424a5e07700d9b812ecfde5ab
-z
-Japp/src/main/java/dev/kuromiichi/recetas/ui/login/LoginViewModelFactory.kt,b/3/b3d3de76cd03360815fbe29f826dc60ecd84fb3d
