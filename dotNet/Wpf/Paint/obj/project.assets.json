@@ -8,19 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\emma\\.nuget\\packages\\": {}
+    "C:\\Users\\dev-emma\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\Wpf\\Paint\\Paint.csproj",
+      "projectUniqueName": "C:\\Users\\dev-emma\\Desktop\\DAM-Projects\\dotNet\\Wpf\\Paint\\Paint.csproj",
       "projectName": "Paint",
-      "projectPath": "Z:\\Wpf\\Paint\\Paint.csproj",
-      "packagesPath": "C:\\Users\\emma\\.nuget\\packages\\",
-      "outputPath": "Z:\\Wpf\\Paint\\obj\\",
+      "projectPath": "C:\\Users\\dev-emma\\Desktop\\DAM-Projects\\dotNet\\Wpf\\Paint\\Paint.csproj",
+      "packagesPath": "C:\\Users\\dev-emma\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dev-emma\\Desktop\\DAM-Projects\\dotNet\\Wpf\\Paint\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\emma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dev-emma\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

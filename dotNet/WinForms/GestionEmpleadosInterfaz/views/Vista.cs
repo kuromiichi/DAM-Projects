@@ -102,11 +102,11 @@ namespace GestionEmpleadosInterfaz
             {
                 empController.CrearEmpleado(
                     new(dni, nombre, correo, telefono, puesto, departamento)
-                );
+                )
 
                 ActualizarEmpleados();
                 MessageBox.Show(
-                    "Se ha creado con éxito",
+                    "Se ha creado con ï¿½xito",
                     "Crear empleado",
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Information);
@@ -131,7 +131,7 @@ namespace GestionEmpleadosInterfaz
             LimpiarInfo();
             ActualizarEmpleados();
             MessageBox.Show(
-                "Se ha eliminado con éxito",
+                "Se ha eliminado con ï¿½xito",
                 "Eliminar empleado",
                 MessageBoxButtons.OK,
                 MessageBoxIcon.Information);
@@ -157,7 +157,7 @@ namespace GestionEmpleadosInterfaz
                 LimpiarInfo();
                 ActualizarEmpleados();
                 MessageBox.Show(
-                    "Se ha actualizado con éxito",
+                    "Se ha actualizado con ï¿½xito",
                     "Actualizar empleado",
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Information);
@@ -185,7 +185,7 @@ namespace GestionEmpleadosInterfaz
                     ActualizarDepartamentos();
                     ActualizarEmpleados();
                     MessageBox.Show(
-                        "Se ha creado con éxito",
+                        "Se ha creado con ï¿½xito",
                         "Crear departamento",
                         MessageBoxButtons.OK,
                         MessageBoxIcon.Information);
@@ -212,7 +212,7 @@ namespace GestionEmpleadosInterfaz
             {
                 MessageBox.Show(
                     "No se puede borrar el departamento; " +
-                    "existen empleados pertenecientes a él",
+                    "existen empleados pertenecientes a ï¿½l",
                     "Error al borrar departamento",
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Error
@@ -226,7 +226,7 @@ namespace GestionEmpleadosInterfaz
             ActualizarDepartamentos();
             ActualizarEmpleados();
             MessageBox.Show(
-                "Se ha eliminado con éxito",
+                "Se ha eliminado con ï¿½xito",
                 "Eliminar departamento",
                 MessageBoxButtons.OK,
                 MessageBoxIcon.Information);

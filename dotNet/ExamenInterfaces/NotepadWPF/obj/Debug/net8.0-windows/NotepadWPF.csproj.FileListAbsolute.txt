@@ -1,0 +1,4 @@
+C:\Users\dev-emma\Desktop\DAM-Projects\dotNet\ExamenInterfaces\NotepadWPF\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\dev-emma\Desktop\DAM-Projects\dotNet\ExamenInterfaces\NotepadWPF\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\dev-emma\Desktop\DAM-Projects\dotNet\ExamenInterfaces\NotepadWPF\obj\Debug\net8.0-windows\NotepadWPF_MarkupCompile.cache
+C:\Users\dev-emma\Desktop\DAM-Projects\dotNet\ExamenInterfaces\NotepadWPF\obj\Debug\net8.0-windows\NotepadWPF_MarkupCompile.lref

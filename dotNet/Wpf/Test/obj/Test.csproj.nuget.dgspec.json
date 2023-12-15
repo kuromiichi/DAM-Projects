@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Wpf\\Test\\Test.csproj": {}
+    "C:\\Users\\dev-emma\\Desktop\\DAM-Projects\\dotNet\\Wpf\\Test\\Test.csproj": {}
   },
   "projects": {
-    "Z:\\Wpf\\Test\\Test.csproj": {
+    "C:\\Users\\dev-emma\\Desktop\\DAM-Projects\\dotNet\\Wpf\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Wpf\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\dev-emma\\Desktop\\DAM-Projects\\dotNet\\Wpf\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "Z:\\Wpf\\Test\\Test.csproj",
-        "packagesPath": "C:\\Users\\emma\\.nuget\\packages\\",
-        "outputPath": "Z:\\Wpf\\Test\\obj\\",
+        "projectPath": "C:\\Users\\dev-emma\\Desktop\\DAM-Projects\\dotNet\\Wpf\\Test\\Test.csproj",
+        "packagesPath": "C:\\Users\\dev-emma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dev-emma\\Desktop\\DAM-Projects\\dotNet\\Wpf\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\emma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dev-emma\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

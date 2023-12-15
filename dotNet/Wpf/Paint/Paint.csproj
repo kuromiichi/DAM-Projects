@@ -8,4 +8,14 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="images\brush.png" />
+    <None Remove="images\cursor.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="images\brush.png" />
+    <Resource Include="images\cursor.png" />
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SorteoWF", "SorteoWF\SorteoWF.csproj", "{53919FBE-5EB3-4ACC-88DE-6870EC62CF86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotepadWPF", "NotepadWPF\NotepadWPF.csproj", "{37BF8B09-2A6E-4363-95D4-5A7A18DF388D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53919FBE-5EB3-4ACC-88DE-6870EC62CF86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53919FBE-5EB3-4ACC-88DE-6870EC62CF86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53919FBE-5EB3-4ACC-88DE-6870EC62CF86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53919FBE-5EB3-4ACC-88DE-6870EC62CF86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37BF8B09-2A6E-4363-95D4-5A7A18DF388D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37BF8B09-2A6E-4363-95D4-5A7A18DF388D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37BF8B09-2A6E-4363-95D4-5A7A18DF388D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37BF8B09-2A6E-4363-95D4-5A7A18DF388D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80232C97-0FE4-4A5F-AAAF-6D45E5415688}
+	EndGlobalSection
+EndGlobal
