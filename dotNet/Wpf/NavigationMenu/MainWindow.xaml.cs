@@ -9,7 +9,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace Test
+namespace NavigationMenu
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -20,6 +20,5 @@ namespace Test
         {
             InitializeComponent();
         }
-
     }
 }

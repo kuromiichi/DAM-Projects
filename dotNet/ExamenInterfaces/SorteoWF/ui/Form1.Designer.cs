@@ -40,6 +40,8 @@
             tableLayoutPanel3 = new TableLayoutPanel();
             label1 = new Label();
             listBox1 = new ListBox();
+            btnAddPrize = new Button();
+            btnClear = new Button();
             tableLayoutPanel1.SuspendLayout();
             tableLayoutPanel4.SuspendLayout();
             tableLayoutPanel2.SuspendLayout();

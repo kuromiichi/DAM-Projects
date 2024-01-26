@@ -8,4 +8,16 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Images\Icons\ic_home.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Themes\Templates\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\Icons\ic_home.png" />
+  </ItemGroup>
+
 </Project>

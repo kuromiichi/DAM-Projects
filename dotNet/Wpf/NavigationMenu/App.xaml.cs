@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace Test
+namespace NavigationMenu
 {
     /// <summary>
     /// Interaction logic for App.xaml
