@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="dev.kuromiichi.firebaseauth.ui.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home">
+
+        <action
+            android:id="@+id/action_homeFragment_to_editContactFragment"
+            app:destination="@id/editContactFragment" />
+
+    </fragment>
+
+    <fragment
+        android:id="@+id/imageFragment"
+        android:name="dev.kuromiichi.firebaseauth.ui.ImageFragment"
+        android:label="fragment_image"
+        tools:layout="@layout/fragment_image" />
+
+    <fragment
+        android:id="@+id/contactFragment"
+        android:name="dev.kuromiichi.firebaseauth.ui.ContactFragment"
+        android:label="fragment_contact"
+        tools:layout="@layout/fragment_contact" />
+
+    <fragment
+        android:id="@+id/editContactFragment"
+        android:name="dev.kuromiichi.firebaseauth.ui.EditContactFragment"
+        android:label="fragment_edit_contact"
+        tools:layout="@layout/fragment_edit_contact">
+
+        <action
+            android:id="@+id/action_editContactFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+
+        <argument
+            android:name="contactKey"
+            app:argType="string" />
+
+    </fragment>
+</navigation>

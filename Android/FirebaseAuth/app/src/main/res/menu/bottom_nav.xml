@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_contacts"
+        android:title="Contactos" />
+
+    <item
+        android:id="@+id/contactFragment"
+        android:icon="@drawable/ic_person_add"
+        android:title="Crear contacto" />
+
+    <item
+        android:id="@+id/imageFragment"
+        android:icon="@drawable/ic_image"
+        android:title="Imagen" />
+
+</menu>
